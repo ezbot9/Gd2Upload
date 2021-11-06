@@ -14,10 +14,6 @@
 - [X] Docker Supported
 
 
-### How To Deploy Video Tutorial:
-
-[![](https://telegra.ph/file/291e37efec46c3a408319.png)](https://youtu.be/sTQkY0UE20c)
-
 
 ## Deploying
 
@@ -42,7 +38,7 @@ apt install -y git python3 ffmpeg
 ```
 - Clone this git repository.
 ```sh 
-git clone https://github.com/kjeymax/GDUPLOAD_BOT2
+git clone https://github.com/ezbot9/Gd2Upload
 ```
 - Change Directory
 ```sh 
