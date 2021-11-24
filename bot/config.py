@@ -21,7 +21,7 @@ class BotCommands:
   YtDl = ['ytdl']
 
 class Messages:
-    START_MSG = "**[Halo] {}.**\n__Halo cantikku ❤ .__\n__Kamu bisa lebih tau dengan mengirim /help.__"
+    START_MSG = "**[Halo] {}.**\n__Halo .__\n__Kamu bisa lebih tau dengan mengirim /help.__"
 
     HELP_MSG = [
         ".",
