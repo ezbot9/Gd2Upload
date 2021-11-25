@@ -68,7 +68,7 @@ class Messages:
     
     INVALID_AUTH_CODE = '❗ **Invalid Code**\n__Yah kode mu salah nih, coba periksa lagi ya__'
     
-    AUTH_TEXT = "⛓️ **To Authorize your Google Drive account visit this [URL]({}) and send the generated code here.**\n__Visit the URL > Allow permissions > you will get a code > copy it > Send it here__"
+    AUTH_TEXT = "⛓️ **Untuk Mengotorisasi akun Google Drive Anda, kunjungi [URL]({}) ini dan kirim kode yang dihasilkan di sini.**\n__Kunjungi URL > Izinkan izin > Anda akan mendapatkan kode > salin > Kirim di sini__"
     
     DOWNLOAD_TG_FILE = "📥 **Mengunduh File...**\n**Filename:** ```{}```\n**Size:** ```{}```\n**MimeType:** ```{}```"
     
